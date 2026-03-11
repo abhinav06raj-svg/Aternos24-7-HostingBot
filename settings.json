@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "The_entity143.aternos.me:48608",
+    "ip": "The_entity143.aternos.me",
     "port": 48608,
     "version": "",
     "try-creative": false
